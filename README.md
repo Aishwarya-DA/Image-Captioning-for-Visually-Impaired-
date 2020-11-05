@@ -3,3 +3,6 @@ Developed a Visual Assistance dataset for the Visually Impaired people to assist
 
 Video Demonstration of Image Captioning for Visually impaired people
 https://www.youtube.com/watch?v=kL_52XDK6eI&feature=youtu.be
+
+Self Developed Visual Assitance Dataset in Kaggle
+https://www.kaggle.com/aishrules25/automatic-image-captioning-for-visually-impaired
